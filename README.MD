@@ -4,7 +4,7 @@
 
 Haze turns ordinary choices — a commute, a meal, an hour of AC — into a number you can see, and puts that number against a weekly ceiling you set yourself. The sky at the top of the page clears or hazes over as the week fills up, so you get the state of the week before reading a single digit.
 
-**Live app:** REPLACE_WITH_YOUR_DEPLOYED_URL
+**Live app:** https://chandan77480.github.io/Climate-Tech/
 **Track:** Climate tech — carbon footprint tracker
 
 ---
